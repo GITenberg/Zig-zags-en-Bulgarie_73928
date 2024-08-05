@@ -1,0 +1,54 @@
+_repo: Zig-zags-en-Bulgarie_73928
+_version: 0.0.1
+contributor:
+  author_of_introduction:
+    agent_name: Claretie, Jules
+    aliases:
+    - Claretie, Arsène-Arnaud
+    - Claretie, Arsène-Armand
+    - Claretie, Arsene-Arnaud
+    - Claretie, Jules Arsène Arnaud
+    birthdate: 1840
+    deathdate: 1913
+    gutenberg_agent_id: '1338'
+    url: http://www.gutenberg.org/2009/agents/1338
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Jules_Ars%C3%A8ne_Arnaud_Claretie
+    - https://fr.wikipedia.org/wiki/Jules_Claretie
+creator:
+  author:
+    agent_name: Kohn-Abrest, Frédéric
+    aliases:
+    - Kohn-Abrest, Frederic
+    - Kohn-Abrest, F.
+    - Kohn-Abrest, Fr.
+    - D'Abrest, Paul
+    - Abrest, Paul d'
+    - d'Abrest, Paul
+    birthdate: 1850
+    deathdate: 1893
+    gutenberg_agent_id: '56943'
+    url: http://www.gutenberg.org/2009/agents/56943
+description: ''
+gutenberg_issued: '2024-06-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73928'
+language: fr
+pgterms:marc904: https://babel.hathitrust.org/cgi/pt?id=hvd.32044085903193
+pgterms:marc905: 20230409084225kohnabrest
+pgterms:marc906: '1879'
+pgterms:marc907: FR
+production_note: Laurent Vogel and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This book was produced from images made available by the HathiTrust Digital Library.)
+publication_note: '  $aParis :$bCharpentier, $c1879.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Kohn-Abrest, Frédéric, 1850-1893'
+- !lcsh 'Russo-Turkish War, 1877-1878 -- Campaigns -- Bulgaria -- Personal narratives'
+- !lcc 'DR'
+- GITenberg
+title: Zig-zags en Bulgarie
+url: http://www.gutenberg.org/ebooks/73928
