@@ -15,6 +15,9 @@ contributor:
     wikipedia:
     - https://en.wikipedia.org/wiki/Jules_Ars%C3%A8ne_Arnaud_Claretie
     - https://fr.wikipedia.org/wiki/Jules_Claretie
+covers:
+- cover_type: archival
+  image_path: 73928-h/images/cover.jpg
 creator:
   author:
     agent_name: Kohn-Abrest, Frédéric
@@ -30,6 +33,8 @@ creator:
     gutenberg_agent_id: '56943'
     url: http://www.gutenberg.org/2009/agents/56943
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73928#Zig-zags-en-Bulgarie
 gutenberg_issued: '2024-06-27'
 gutenberg_type: Text
 identifiers:
